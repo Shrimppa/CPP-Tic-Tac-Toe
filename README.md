@@ -11,7 +11,7 @@ I wrote this software because I wanted to learn C++, so I could futher my knowle
 
 I used Visual Studio to develop this project.
 
-I used C++, and the base library for C++, I also used the <List> library.
+I used C++, and the base library for C++, I also used the List library.
 
 # Useful Websites
 
